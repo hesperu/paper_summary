@@ -29,29 +29,29 @@
 ```
 # ざっくり一文要約　
 
-# 1. Title:タイトル
+## Title:タイトル
 論文リンク : 
 公開年 : 
 実装コードリンク : 
 Publication : 
 
-# 2. Author:著者，所属
+## Author:著者，所属
 
-# 3. Motivation:研究の出発点
+## Motivation:研究の出発点
 
-# 4. Method:研究手法
+## Method:研究手法
 
-# 5. Insight : 結果と知見
+## Insight : 結果と知見
 
-# 6. Contribution Summary: 貢献を1行でまとめる
+## Contribution Summary: 貢献を1行で
 
-# 7. Keyword
+## Keyword
 
-# 8. Unknown: 残った課題
+## Unknown: 残った課題
 
-# 9. Reflection : 考察
+## Reflection : 考察
 
-# 10. Reference: 関連研究
+## Reference: 関連研究
 ```
 
 
