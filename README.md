@@ -12,10 +12,10 @@
 <a id="label"></a>
 ## ラベル
 - 投稿年
-- CV(Computer Vision)
-- ML(Machine Learning)
-- DL(Deep Learning)
-- PS (Planetary Science)
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Planetary Science
 - Journal-Club(輪講用論文)
 
 
